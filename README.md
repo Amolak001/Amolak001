@@ -3,9 +3,9 @@
 
 ## 💫 About Me:
 📊 Data Analyst passionate about turning data into insights  
-📈 Working on data visualization and analytics projects  
 🌱 Currently learning Python for Data Science  
 🔍 Exploring Machine Learning & Statistical Analysis  
+📈 Working on data visualization and analytics projects  
 👥 Looking to collaborate on data-driven projects  
 📬 How to reach me: [singhamolak974@gmail.com](mailto:singhamolak974@gmail.com)
 
@@ -19,12 +19,12 @@
 </p>
 
 ## 📊 Skills:
-- Data Analysis & Visualization
-- SQL & Database Management
-- Statistical Analysis
 - Python (Pandas, NumPy, Matplotlib)
 - Excel & Power BI
 - Machine Learning Basics
+- Data Analysis & Visualization
+- SQL & Database Management
+- Statistical Analysis
 - Data Cleaning & Preprocessing
 - Business Intelligence
 
