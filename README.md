@@ -1,3 +1,4 @@
+[![Data Analysis Banner](https://img.shields.io/badge/Data%20Analysis-Insights%20Through%20Numbers-blue?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/jha-aman09)
 ### **Hi there, I'm Amolak Singh**
 
 #### Data Analyst || GGSIPU 👋
